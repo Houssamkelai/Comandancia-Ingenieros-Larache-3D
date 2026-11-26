@@ -1,0 +1,38 @@
+{
+  "title": "Comandancia de Ingenieros de Larache",
+  "author": "Houssam Kelai",
+  "project": "Historia de Larache en fotos",
+  "model": "./assets/comandancia-drone.glb",
+  "radius": 0.045,
+  "start": [
+    10,
+    5.8,
+    13
+  ],
+  "target": [
+    0,
+    2,
+    -1.5
+  ],
+  "speeds": {
+    "outside": 1.6,
+    "inside": 0.38,
+    "observe": 0.06
+  },
+  "bounds": [
+    -18,
+    18,
+    -16,
+    16,
+    0.06,
+    12
+  ],
+  "doorCenter": [
+    -0.029585801,
+    0.53,
+    -0.015
+  ],
+  "doorWidth": 0.45837,
+  "autoOpenDistance": 0.85,
+  "quality": "standard"
+}
